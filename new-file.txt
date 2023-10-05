@@ -1,2 +1,14 @@
 This is my new file.
 This is Git command.
+This is my new file.
+This is Git command.
+
+This is my new file.
+This is Git command.
+
+This is my new file.
+This is Git command.
+
+This is my new file.
+This is Git command.
+
